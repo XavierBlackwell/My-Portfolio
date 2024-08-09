@@ -342,10 +342,6 @@ button {
     border-radius: 5px
 }
 
-.skills__item--webpack img {
-    border-radius: 50%
-}
-
 @keyframes moveInLeft {
     0% {
         opacity: 0;
