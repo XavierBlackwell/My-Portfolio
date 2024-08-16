@@ -19888,36 +19888,12 @@
                         document.querySelector(".skills__item--html").classList.add("skills__item-fade-in")
                     }
                     )),
-                    e(1100).then((()=>{
-                        document.querySelector(".skills__item--webpack").classList.add("skills__item-fade-in")
-                    }
-                    )),
                     e(1200).then((()=>{
                         document.querySelector(".skills__item--js").classList.add("skills__item-fade-in")
                     }
                     )),
                     e(1300).then((()=>{
                         document.querySelector(".skills__item--git").classList.add("skills__item-fade-in")
-                    }
-                    )),
-                    e(1400).then((()=>{
-                        document.querySelector(".skills__item--sass").classList.add("skills__item-fade-in")
-                    }
-                    )),
-                    e(1500).then((()=>{
-                        document.querySelector(".skills__item--npm").classList.add("skills__item-fade-in")
-                    }
-                    )),
-                    e(1600).then((()=>{
-                        document.querySelector(".skills__item--python").classList.add("skills__item-fade-in")
-                    }
-                    )),
-                    e(1700).then((()=>{
-                        document.querySelector(".skills__item--react").classList.add("skills__item-fade-in")
-                    }
-                    )),
-                    e(1800).then((()=>{
-                        document.querySelector(".skills__item--r").classList.add("skills__item-fade-in")
                     }
                     )),
                     e(1900).then((()=>{
